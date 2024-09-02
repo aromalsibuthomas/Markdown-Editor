@@ -5,7 +5,7 @@ This Markdown Editor built with Flutter, developed with the assistance of AI as 
 ## Tech Stack
 - **Framework:** Flutter
 - **Language:** Dart
-- **AI Assistance:** Code generated with the help of AI
+- **AI Assistance:** ChatGPT
 
 ## Key Features
 - **Basic Markdown Styling:** Supports fundamental markdown styling options.
